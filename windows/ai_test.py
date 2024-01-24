@@ -5,8 +5,8 @@ import time
 import cv2
 from ultralytics import YOLO
 
-find_plate_model = YOLO("E:/1.Project/1.Thub/3.AISolution/1.scr/plate_detection/model/find_plate_240123.pt")
-plate_char_model = YOLO("E:/1.Project/1.Thub/3.AISolution/1.scr/plate_detection/model/plate_char_240118.pt")
+find_plate_model = YOLO("../model/find_plate_240123.pt")
+plate_char_model = YOLO("../model/plate_char_240118.pt")
 
 classes_type = ['plate1', 'plate2']
 classes = ['1','2','3','4','5','6','7','8','9','0',
