@@ -18,8 +18,8 @@ import filecmp
 import requests
 import ai_test
 #import mqtt
-import camera as cam
-import neo_color as light
+#import camera as cam
+#import neo_color as light
 from threading import Thread
 #from pydub import AudioSegment
 #from pydub.playback import play
