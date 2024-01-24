@@ -1,0 +1,13 @@
+bullseye -> pytorch -> opencv -> yolov8
+
+
+
+https://github.com/Qengineering/PyTorch-Raspberry-Pi-64-OS
+https://qengineering.eu/install-pytorch-on-raspberry-pi-4.html
+https://qengineering.eu/install-raspberry-64-os.html
+https://github.com/Qengineering/RPi-Bullseye-DNN-image
+
+한글 폰트
+sudo apt-get install fonts-unfonts-core
+출처: https://sijoo.tistory.com/421 [Jooo's life story:티스토리]
+https://i5i5.tistory.com/1145
